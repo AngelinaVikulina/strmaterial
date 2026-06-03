@@ -1,3 +1,6 @@
+pip install openpyxl pillow
+
+
 git clone httpsgithub.comAngelinaVikulinastrmaterial.git
 cd strmaterial
 python create_database.py
