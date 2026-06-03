@@ -6,3 +6,4 @@ python main.py
 
 очистка
 rmdir /s /q .git
+rm -r -force .git
